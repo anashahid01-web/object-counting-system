@@ -2,7 +2,7 @@
 
 A computer vision project that detects and counts **people** and **cars** in images, recorded videos and live camera feeds, using YOLOv8, OpenCV and a Tkinter desktop interface.
 
-Developed as a course project for the Artificial Intelligence course at Corvit, Rawalpindi (Instructor: Engineer Aamir Jamil), October 2025.
+Developed as a course project for the Artificial Intelligence course at Corvit, Rawalpindi , October 2025.
 
 ---
 
