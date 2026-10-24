@@ -91,4 +91,3 @@ Python · YOLOv8 (Ultralytics) · OpenCV · NumPy · SciPy · Matplotlib · Tkin
 
 ## 👩‍💻 Author
 **Ana Shahid**
-[LinkedIn](https://www.linkedin.com/in/ana-shahid-243533180) | [GitHub](https://github.com/anashahid01-web)
